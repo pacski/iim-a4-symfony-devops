@@ -10,4 +10,4 @@ jobs:
       # git clone
       - uses: actions/checkout@v2
       # linter
-      - uses: michaellw90/PHP-Lint@master
+      - uses: michaelw90/PHP-Lint@master
