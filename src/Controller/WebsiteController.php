@@ -13,7 +13,7 @@ class WebsiteController extends AbstractController
     public function index()
     {
         if       (true){
-            echo 'test'
+            echo 'test';
         }
         return $this->render('website/index.html.twig', [
             'controller_name' => 'WebsiteController',
